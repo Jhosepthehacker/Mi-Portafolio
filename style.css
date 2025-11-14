@@ -25,11 +25,12 @@ footer {
 #definition {
   color: #006400;
   margin: 6px;
-  font-family: seriff
+  font-family: serif, fantasy;
 }
 
 .textImportant {
   color: #00af66;
+  font-weight: bold;
 }
 
 #contact {
