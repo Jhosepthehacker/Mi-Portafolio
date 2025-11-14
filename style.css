@@ -1,11 +1,12 @@
 body {
+  background-color: #081a41;
   margin: 0;
   border: 0;
   padding: 0;
 }
 
 h1 {
-  background-color: #0000FF;
+  background-color: #0000ff;
   color: white;
   margin: 20px;
   text-align: center;
