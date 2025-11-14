@@ -39,3 +39,22 @@ footer {
   padding: 12px;
   float: bottom;
 }
+
+.align {
+  display: flex;
+  align: center;
+}
+
+#imgFacebook {
+  width: 6px;
+  height: 6px;
+  border: 2px solid #c0645a;
+  border-radius: 6px;
+}
+
+#imgDiscord {
+  width: 6px;
+  height: 6px;
+  border: 2px solid #f0635f;
+  border-radius: 6px;
+}
