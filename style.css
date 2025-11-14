@@ -5,7 +5,7 @@ body {
   padding: 0;
 }
 
-h1 {
+#title {
   background-color: #0000ff;
   color: white;
   margin: 20px;
@@ -22,7 +22,7 @@ footer {
   float: bottom;
 }
 
-#concepto {
+#definition {
   color: #006400;
   margin: 6px;
 }
