@@ -11,10 +11,16 @@ h1 {
   margin: 20px;
   text-align: center;
   font-family: arial;
+  border: 6px solid #0000ff;
+  border-radius: 6px;
 }
 
 footer {
   color: grey;
   text-align: center;
+  margin: 6px;
+}
+
+#concepto {
   margin: 6px;
 }
